@@ -17,4 +17,7 @@
 ### Trabajo Práctico N° 1: Cronómetro Binario.
 ### Link del circuito en Tinkercad: https://www.tinkercad.com/things/dAYGqIH35za
 
+### Trabajo Práctico N° 2: Sistema de luces.
+### Link del circuito en Tinkercad: https://www.tinkercad.com/things/4elIPoUHRPG
+
 ---
